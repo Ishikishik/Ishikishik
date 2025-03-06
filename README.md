@@ -1,5 +1,7 @@
 # Hi there I'mKawauso(Ishikishik)👋
-<img src="https://komarev.com/ghpvc/?username=Ishikishik" />
+<img src="https://komarev.com/ghpvc/?username=Ishikishik" /><a href="https://practice.otterstb.com" target="_blank"><img alt="Gmypage" src="https://img.shields.io/badge/$mypage-$practice.otterstb.com-$blue.svg
+" /></a>
+
 
 ### mypage:[otterstb.com](https://practice.otterstb.com)
 
