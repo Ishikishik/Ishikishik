@@ -1,4 +1,5 @@
 # Hi there I'mKawauso(Ishikishik)👋
+<img src="https://komarev.com/ghpvc/?username={Ishikishik}" />
 
 ### mypage:[otterstb.com](https://practice.otterstb.com)
 
