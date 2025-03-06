@@ -8,7 +8,7 @@
 ### twitter[カワウソ@JJ5STB/1](https://x.com/bluepho353181/status/1835942255351525413)
 
 
-## my　activity
+## activity
 
 [![](https://raw.githubusercontent.com/Ishikishik/Ishikishik/main/profile-summary-card-output/buefy/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Ishikishik/Ishikishik/main/profile-summary-card-output/buefy/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Ishikishik/Ishikishik/main/profile-summary-card-output/buefy/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
