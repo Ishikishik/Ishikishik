@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there I'mKawauso(Ishikishik)👋
+#mypage:[otterstb.com](https://practice.otterstb.com)
+#twitter[カワウソ@JJ5STB/1](https://x.com/bluepho353181/status/1835942255351525413)
 <!--
 **Ishikishik/Ishikishik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
