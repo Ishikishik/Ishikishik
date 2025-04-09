@@ -5,7 +5,7 @@
 
 ### mypage:[otterstb.com](https://practice.otterstb.com)
 
-### twitter[カワウソ@JJ5STB/1](https://x.com/bluepho353181/status/1835942255351525413)
+### twitter:[カワウソ@JJ5STB/1](https://x.com/bluepho353181/status/1835942255351525413)
 
 
 ## activity
