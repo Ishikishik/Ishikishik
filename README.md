@@ -1,8 +1,7 @@
-[]<img width="216" height="128" alt="Image" src="https://github.com/user-attachments/assets/46bc92f4-47a4-46eb-b2d1-58d5b94c1f81" />
 # Hi there I'mKawauso(Ishikishik)👋
 <img src="https://komarev.com/ghpvc/?username=Ishikishik" /><a href="https://practice.otterstb.com" target="_blank">
 
-
+<img width="216" height="128" alt="Image" src="https://github.com/user-attachments/assets/46bc92f4-47a4-46eb-b2d1-58d5b94c1f81" />
 
 ### mypage:[otterstb.com](https://practice.otterstb.com)
 
