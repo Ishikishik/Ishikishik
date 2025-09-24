@@ -1,8 +1,7 @@
 # Hi there I'mKawauso(Ishikishik)👋
 <img src="https://komarev.com/ghpvc/?username=Ishikishik" /><a href="https://practice.otterstb.com" target="_blank">
 
-<img width="216" height="128" alt="Image" src="https://github.com/user-attachments/assets/46bc92f4-47a4-46eb-b2d1-58d5b94c1f81" />
-
+<img width="1003" height="624" alt="Image" src="https://github.com/user-attachments/assets/ba2e5ccc-f607-404b-81a2-9dbc3016f772" />
 ### mypage:[otterstb.com](https://practice.otterstb.com)
 
 ### twitter:[カワウソ@JJ5STB/1](https://x.com/bluepho353181/status/1835942255351525413)
